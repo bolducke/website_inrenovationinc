@@ -6,7 +6,7 @@
 
 This code source is the open-source code for the website [inrenovation](https://inrenovation.com/). 
 
-As a freelancer, I created this project in 2020 using Vuetify 2, Vue 2 and Firebase for the company Rénovation Montréal I.N. inc. The project was meant to familiarize myself with web technologies while I was a second-year student at the university.
+As a freelancer, I created this project in 2020 using Vuetify 2, Vue 2, and Firebase for the company Rénovation Montréal I.N. Inc. The project was meant to familiarize me with web technologies while I was a second-year student.
 
 ## Project setup
 ```
